@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "dc58b64de7db1e8d58aa04f7",
+  "owner": "yfnywxgph",
+  "repo": "page-27743da54c8076bbd9fae21c",
+  "title": "点阵加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "27743da54c8076bbd9fae21c",
+      "a": "点阵加速",
+      "b": "机场官网线路发布页",
+      "entity": "点阵加速",
+      "brand": "点阵加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "97d947f6a478071cc85df4c53663b0972579c812e502f8e0702555bf6638a81e",
+      "content": {
+        "primary_entity": "点阵加速",
+        "keyword1": "点阵加速",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "选择与设备匹配的客户端，在订阅设置中导入点阵加速配置。",
+          "AI_CLIENTS_TITLE": "按设备选择合适的客户端",
+          "AI_CLOSING_TEXT": "选择适合的套餐，在客户端中导入订阅配置，开始使用点阵加速。",
+          "AI_CLOSING_TITLE": "按需选择套餐",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置和套餐对比提供实际参考。基础版适合轻量使用，旗舰版提供更多流量与设备数，团队版面向多设备或团队场景。导入订阅后即可在常用客户端中管理连接。",
+          "AI_FAQ_ANSWER_1": "套餐按流量和设备数区分。基础版每月100GB、3台设备；旗舰版每月300GB、5台设备；团队版每月1000GB、20台设备。根据日常用量和设备数选择即可。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持5台设备同时在线，团队版支持20台。基础版支持3台。如果需要在手机、电脑、平板之间切换使用，建议选择设备数更多的套餐。",
+          "AI_FAQ_ANSWER_3": "年付方案有优惠。基础版按年付¥150/年，旗舰版按年付¥350/年，团队版按年付¥850/年。长期使用可以优先考虑年付。",
+          "AI_FAQ_ANSWER_4": "在客户端中粘贴订阅链接即可导入配置。不同客户端操作略有差异，按照对应客户端的文档说明进行设置。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线游戏加速优化和7x24优先工单支持；团队版提供VIP专属高带宽节点、企业定制路由和专属客户经理服务。需要更低延迟或团队管理时可选旗舰版或团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "点阵加速的套餐有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时连接几台设备？",
+          "AI_FAQ_QUESTION_3": "是否提供年付方案？",
+          "AI_FAQ_QUESTION_4": "如何在客户端中导入点阵加速订阅？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版适合哪些使用场景？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "点阵加速围绕套餐选择、设备需求与订阅周期提供灵活方案。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版适合轻量使用，旗舰版提供更多流量与设备数，团队版面向多设备或团队场景。",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，按常用设备数量选择。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付优惠。按年付基础版¥150/年、旗舰版¥350/年、团队版¥850/年。",
+          "AI_FEATURE_TITLE_1": "按需选择套餐",
+          "AI_FEATURE_TITLE_2": "匹配设备数量",
+          "AI_FEATURE_TITLE_3": "灵活订阅周期",
+          "AI_GUIDE_INTRO": "从选择服务到完成订阅配置，按步骤操作即可使用点阵加速。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "点阵加速提供基础版、旗舰版与团队版多档套餐，覆盖每月100GB至1000GB流量和3至20台设备，适合个人、家庭和团队用户按需选择。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活选择",
+          "AI_HIGHLIGHT_1": "基础版每月100GB，支持3台设备",
+          "AI_HIGHLIGHT_2": "旗舰版每月300GB，支持5台设备",
+          "AI_HIGHLIGHT_3": "团队版每月1000GB，支持20台设备",
+          "AI_PLANS_INTRO": "三档套餐按流量、设备数与节点权益区分，可根据使用需求对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量、设备数和预算选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备与客户端支持情况。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅配置，完成连接设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "点阵加速 多档套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bjlcha.cn",
+    "host": "bjlcha.cn"
+  },
+  "file_hashes": {
+    "index.html": "b8d92518e1063417f2f6c70a47e6b0aba7adeb543a998607690501c080249f20",
+    "sitemap.xml": "f53dc0c4e152748de95a18433194306685d9097abb7225ea6eeb83e9a82b20ff",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "43e009574c811fa1ca29b87809057513deb29aaa987d5f25d9cf8a2d30d8b5a1",
+    "robots.txt": "c40b72b0631bda19794e0dad5343fa2876ef779516857826e873d9df9bfd629d",
+    "e51c5384e123deca521e8339f6277992.txt": "2e8cac7dc5913527de2b957509184b85c0b5879fe919e4fef157383d1f03d859"
+  },
+  "revision": "115fa5a3d6d64d9d1d2cf3367357f8a065d8d24849b1e8e29e385b47b35d693e"
+}
